@@ -1,1 +1,1 @@
-# plots-and-data-non-iid-errors-with-surface-codes
+This repository contains the data and files to generate the plots in the paper "Correcting non-independent and non-identically distributed errors with surface codes". The plots can be made by running the code in the two jupyter notebooks.
